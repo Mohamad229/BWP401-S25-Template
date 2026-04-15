@@ -1,0 +1,13 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" fill="#F7F3EA"/>
+  <rect x="60" y="60" width="1080" height="680" rx="48" fill="#FFFFFF"/>
+  <path d="M120 210H1080" stroke="#E1E7E4" stroke-width="20" stroke-linecap="round"/>
+  <path d="M120 400H1080" stroke="#E1E7E4" stroke-width="20" stroke-linecap="round"/>
+  <path d="M120 590H1080" stroke="#E1E7E4" stroke-width="20" stroke-linecap="round"/>
+  <rect x="180" y="280" width="260" height="190" rx="28" fill="#2F7F6B" fill-opacity="0.15"/>
+  <rect x="520" y="160" width="300" height="220" rx="32" fill="#F2B84B" fill-opacity="0.2"/>
+  <rect x="760" y="470" width="260" height="190" rx="32" fill="#0F2336" fill-opacity="0.1"/>
+  <circle cx="320" cy="375" r="36" fill="#2F7F6B"/>
+  <circle cx="320" cy="375" r="14" fill="#FFFFFF"/>
+  <text x="200" y="520" font-family="Cairo, sans-serif" font-size="36" fill="#173246">Auditorium A</text>
+</svg>
